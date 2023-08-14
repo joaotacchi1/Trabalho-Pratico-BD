@@ -52,3 +52,5 @@ Arthur Alves de Souza - arthur.as1@aluno.ufop.edu.br
 Estevão da Silva Pinto - estevão.pinto@aluno.ufop.edu.br
 
 Link para repositório no GitHub: https://github.com/joaotacchi1/Trabalho-Pratico-BDno
+Link para mapeamento ER - Relacional: https://drive.google.com/file/d/1eEaD18gXbRVpTAaV9Fx3fvaffosDt4Or/view?usp=sharing
+Link para modelo ER - https://drive.google.com/file/d/1H84nLpQn2_Z-SxUrK4K57aPMEO-qHPPK/view?usp=sharing
