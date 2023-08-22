@@ -30,11 +30,11 @@ Abra o arquivo api/server/server.js em um terminal.
 Modifique as configurações de conexão com o banco de dados para corresponder às suas credenciais de POSTGRESQL:
 javascript
 const dbConfig = {
-  user: 'seu_usuario', 
-  password: 'sua_senha',
-  host: 'localhost', //local host
-  port: 5432, //sua porta
-  database: 'seu_banco_de_dados'
+  user: 'seu_usuario',  
+  password: 'sua_senha',  
+  host: 'localhost', //local host  
+  port: 5432, //sua porta  
+  database: 'seu_banco_de_dados'  
 };
 
 3. Iniciar o Servidor
