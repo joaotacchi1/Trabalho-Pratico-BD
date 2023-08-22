@@ -28,6 +28,7 @@ Na pasta database, você encontrará os scripts SQL necessários para criar as t
 2. Configurar o Servidor
 Abra o arquivo api/server/server.js em um terminal.
 Modifique as configurações de conexão com o banco de dados para corresponder às suas credenciais de POSTGRESQL:
+
 javascript
 const dbConfig = {
   user: 'seu_usuario',  
@@ -37,18 +38,18 @@ const dbConfig = {
   database: 'seu_banco_de_dados'  
 };
 
-3. Iniciar o Servidor
+4. Iniciar o Servidor
 Abra o terminal na pasta api do projeto.
 Instale as dependências do servidor (encontradas em "./api/package.json") executando o seguinte comando:
 npm install {dependencia}
 Após a instalação das dependências, inicie o servidor com o seguinte comando:
 "nodemon server"
 
-4. Executar o Frontend
+5. Executar o Frontend
 Abra o terminal na pasta frontend do projeto.
 Inicie um servidor local para o frontend (você pode usar o Live Server se estiver usando o Visual Studio Code) ou abra diretamente o arquivo frontend/index.html em um navegador.
 
-5. Informações dos Integrantes do Grupo:
+6. Informações dos Integrantes do Grupo:
 Luis Guilherme Godim da Fonseca - luis.fonseca@aluno.ufop.edu.br
 João Vitor Tacchi Martins Lanna - joao.tacchi@aluno.ufop.edu.br
 Carlos Henrique Brambati Gomes Sobrinho - carlos.brambati@aluno.ufop.edu.br
