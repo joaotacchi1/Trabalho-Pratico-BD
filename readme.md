@@ -27,7 +27,7 @@ Na pasta database, você encontrará os scripts SQL necessários para criar as t
 
 2. Configurar o Servidor
 Abra o arquivo api/server/server.js em um terminal.
-Modifique as configurações de conexão com o banco de dados para corresponder às suas credenciais de POSTGRESQL:  
+Modifique as configurações de conexão com o banco de dados localizada em ./api/server/infra/database.js para corresponder às suas credenciais de POSTGRESQL:  
 javascript  
 const dbConfig = {  
   user: 'seu_usuario',  
